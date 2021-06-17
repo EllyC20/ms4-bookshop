@@ -2,7 +2,7 @@
 
 ![Am I Responsive Image]
 
-
+## Bookshop is a fictional online book and supplies store. The stores purpose is to sell books, and other materials. These  materials could include arts and crafts supplies, notebooks, school supplies or home office products. The store will allow the owner to make more sales by moving to an online platform. 
 
 #### The live website can be viewed [here]()
 
@@ -64,13 +64,13 @@
 
 **Project Purpose**
 
-*  
+*  An ecommerce site where users can purchase products.
 
 <span id="scope"></span>
 
 ### 2.Scope
 
-
+* Fits in with my current skill-set of HTML, CSS, JavaScript, Python and Django.
 
 <span id="structure"></span>
 
@@ -96,6 +96,10 @@
 <span id="wireframes"></span>
 
 ### 4.Skeleton
+
+**An inital layout of the file structure can be seen here.**
+
+![ReadmeImage](readme-images/file_structure.jpeg)
 
  **Desktop wireframes can be viewed [here]()**
 
