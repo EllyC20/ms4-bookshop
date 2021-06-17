@@ -35,30 +35,27 @@
 
 ### User Stories 
 
-**As a User**
+**As a New User**
 
-* 
-* 
-* 
-* 
-* 
-* 
+* I want to be able to use the site intuitively. 
+* I want to be able to search for products.
+* I want to be able to order products by category.
+* I want to be able to add products to my basket and checkout, without an account.
+* I want to be shown messages throughout my journey through the site.
+* I want to be able to register an account.
 
-**As a Site Owner**
+**As a Site Owner/Super User**
 
-* 
-* 
-* 
-* 
-* 
-* 
+* I want to have a payment system implemented.
+* I want to be able to edit product details.
+* I want to be able to add new products.
 
-**As a Returning User**
+**As a Returning User/Signed In User**
 
-* 
-* 
-* 
-* 
+* I want to be able to save my delivery address and information.
+* I want to be able to see my previous orders in my profile.
+* I want to be able to log in to a previously registered profile. 
+* I want to be able to leave reviews for products.
 
 
 <span id="strategy"></span>
@@ -230,7 +227,7 @@ All testing detail can be found [here.]()
   - Search your repositorie name, when it is found click "connect".
 
 * In the "settings", choose "config vars". Click on "Reveal config vars" then enter the variables contained in your **env.py** file.
-  - These include "IP, PORT, SECRET_KEY, MONGO_URI, MONGO_DBNAME".
+  - These include "".
 
 * In the "deploy" section, scroll down to "automatic deployments" choose "enable automatic deploys" and then click "deploy branch".
 
